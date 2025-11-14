@@ -1,4 +1,6 @@
 # Student_Performance_Prediction
+<img width="1208" height="690" alt="image" src="https://github.com/user-attachments/assets/979d887c-6d6d-42aa-8056-5beb617f043a" />
+
 🎓 Student Performance Prediction
 This project uses machine learning techniques to predict student academic performance based on various socio-economic and academic features. It includes both regression (predicting scores) and classification (predicting pass/fail or grade categories) models.
 
