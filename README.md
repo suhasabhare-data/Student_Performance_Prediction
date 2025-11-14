@@ -12,6 +12,7 @@ The dataset contains student-related attributes such as:
 Target Variables:
 - For regression: final grade (G3)
 - For classification: pass/fail or grade category (e.g., A/B/C)
+---
 
 🧠 ML Models Used
 🔢 Regression
@@ -25,9 +26,11 @@ Target Variables:
 - Random Forest Classifier
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
+- ---
 
 🛠️ Project Structure  
-student-performance-prediction/
+student-performance-prediction
+
 <img width="681" height="232" alt="image" src="https://github.com/user-attachments/assets/2fb7dac2-355b-4fcc-bfa7-72bb3932cdd4" />
 
 
@@ -36,6 +39,7 @@ student-performance-prediction/
 📊 Evaluation Metrics
 - Regression: MAE, MSE, RMSE, R² Score
 - Classification: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
+- ---
 
 🚀 How to Run
 - Clone the repository:
@@ -48,6 +52,7 @@ python src/preprocessing.py
 - Train models:
 python src/train_regression.py
 python src/train_classification.py
+---
 
 
 
@@ -55,8 +60,10 @@ python src/train_classification.py
 - Hyperparameter tuning with GridSearchCV
 - Model interpretability using SHAP
 - Deployment via Flask or Streamlit
+- ---
 
 📚 References
 - UCI Machine Learning Repository: Student Performance Data Set
 - Scikit-learn documentation
 - XGBoost and SHAP libraries
+- ---
